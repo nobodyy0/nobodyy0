@@ -1,3 +1,5 @@
+DISCLAIMER at this point in time I do not know how to properly set the license so I will leave a file called COPYING cointaining the WTFPL (I have to study, I aint got this much time to research on this topic)
+
 All this script does is just beep the motherboard buzzer every hour provided that you have installed one or the command "beep" works on your machine.
 
 Why?
