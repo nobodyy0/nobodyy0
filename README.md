@@ -1,6 +1,7 @@
 All this script does is just beep the motherboard buzzer every hour provided that you have installed one or the command "beep" works on your machine.
 
 Why?
+
 I always heard those beeps every hour on the radio, then, many years later, I discovered that those beeps actually come from an atomic clock so I decided to recreate this on my pc. I know, the clock inside our pcs is nowhere near accurate as an atomic one, but I dont need that level of precision, at least me.
 
 I commented most of the workings of the script inside the script itself although it is not complex.
