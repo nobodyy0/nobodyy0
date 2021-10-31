@@ -22,9 +22,9 @@ sleep 0.05
 beep -f 2200 -l 600
 }
 
+initiate
 while true #this is a simple loop, it should not break, if it does, then idfk
 do
-    initiate
     looping
     sleep $TOTAL_SECONDS_TO_WAIT_UNTIL_NEXT_BEEPS
     beep -f 2000 -l 300
